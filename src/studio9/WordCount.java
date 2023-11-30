@@ -31,7 +31,8 @@ public class WordCount {
 	public static Map<String, Integer> countWords(List<String> words) {
 
 		// FIXME
-		throw new NotYetImplementedException();
+		//throw new NotYetImplementedException();
+		
 
 	}
 	
